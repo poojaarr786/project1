@@ -1,0 +1,20 @@
+:where(.css-dev-only-do-not-override-1kuana8).ant-table-wrapper .ant-table-thead >tr>th, :where(.css-dev-only-do-not-override-1kuana8).ant-table-wrapper .ant-table-thead >tr>td {
+    position: relative;
+    color: rgba(0, 0, 0, 0.88);
+    font-weight: 600;
+    text-align: start;
+    background: #93dceb;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background 0.2s ease;
+}
+
+.ant-table-tbody > tr:nth-child(even) > td {
+    background-color: #f0f8ff; 
+  }
+
+  .cardParagraph {
+    margin-bottom: 5px;
+  }
+  .loading-container {
+    text-align: center; 
+  }
